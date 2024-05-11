@@ -108,7 +108,7 @@ span{
 .instagram-card{
           display: flex;
           justify-content: space-between;
-          padding: 30px 200px 30px 200px;
+          margin: 30px 200px 30px 200px;
           
 }
 .insta-img{
@@ -143,11 +143,20 @@ span{
 .leatest-btn{
           border: none;
           border-radius: 4px;
-          background-color:#692231;
+          background-color:#ed0f3f;
           color: white;
           font-size: 16px;
           height: 30px;
           margin: 10px;
           font-size: 25px;
           height: 40px;
+}
+.footer-section{
+          text-align: center;
+          background-color: black;
+          color: white;
+          padding: 30px 0 30px 0;
+}
+.footer-section > h1{
+          font-size: 60px;
 }
